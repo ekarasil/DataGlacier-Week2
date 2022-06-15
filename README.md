@@ -35,11 +35,11 @@ You should fully investigate and understand each data set.
 -Identify and remove duplicates
 -Perform other analysis like NA value and outlier detection
 
-**Analysis
+**Analysis**
 
-**Create multiple hypothesis and investigate:
+**Create multiple hypothesis and investigate:**
 
-**You will need to generate 5-7 hypothesis initially to investigate as some will not prove what you are expecting.
+**You will need to generate 5-7 hypothesis initially to investigate as some will not prove what you are expecting.**
 
 **For Example:** *“Is there any seasonality in number of customers using the cab service?”*
 
